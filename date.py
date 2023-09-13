@@ -15,7 +15,7 @@ def second_date(somecost, someamount):
 
 #user input for general information
 user_name = input("What is your first name? ")
-dates_name = input("What is your first name? ")
+dates_name = input("What is your date's name? ")
 restaurant = input("Name of the restaurant you are taking your date on? ")
 budget = float(input("What is your budget for this date? "))
 
